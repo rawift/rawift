@@ -10,7 +10,7 @@
 <h3 align="left" style="color: #00b3ff;">Profile Statistics:</h3>
 <p align="left">
   <a href="#">
-    <img src="https://bad-apple-github-readme.vercel.app/api?username=aniket-2003-das&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="GitHub Stats" />
+    <img src="https://bad-apple-github-readme.vercel.app/api?username=rawift&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="GitHub Stats" />
   </a>
 </p>
 
@@ -18,8 +18,8 @@
 
 <h3 align="left" style="color: #00b3ff;">Contributions:</h3>
 <p align="left">
-  <a href="https://github.com/aniket-2003-das">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-2003-das&theme=blue-green" alt="GitHub Streak" />
+  <a href="https://github.com/rawift">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rawift&theme=blue-green" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 <h3 align="left" style="color: #00b3ff;">Languages:</h3>
 <p align="left">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-2003-das&layout=compact&theme=blue-green&title_color=00b3ff&text_color=ffffff" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawift&layout=compact&theme=blue-green&title_color=00b3ff&text_color=ffffff" alt="Top Languages" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@
 <h3 align="left" style="color: #00b3ff;">Trophies:</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aniket-2003-das&theme=algolia&title=Stars,Commits,Followers,Repositories&title_color=00b3ff&text_color=ffffff" alt="GitHub Trophies" style="margin-bottom: 20px;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rawift&theme=algolia&title=Stars,Commits,Followers,Repositories&title_color=00b3ff&text_color=ffffff" alt="GitHub Trophies" style="margin-bottom: 20px;" />
   </a>
 </p>
 
@@ -45,10 +45,10 @@
 
 <h3 align="left" style="color: #00b3ff;">Connect with me:</h3>
 <p align="left">
-  <a href="https://leetcode.com/u/aniket-2003-das/" target="_blank" rel="noreferrer">
+  <a href="https://leetcode.com/u/rawift/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" style="filter: invert(0.5) sepia(1) hue-rotate(190deg) saturate(3);" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/aniketdas8822/" target="_blank" rel="noreferrer">
+  <a href="https://www.geeksforgeeks.org/user/rawift/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40" style="filter: invert(0.5) sepia(1) hue-rotate(190deg) saturate(3);" />
   </a>
 </p>
