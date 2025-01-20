@@ -11,7 +11,8 @@
 <h3 align="left" style="color: #00b3ff;">Profile Statistics:</h3>
 <p align="left">
   <a href="#">
-    <img src="https://bad-apple-github-readme.vercel.app/api?username=rawift&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="GitHub Stats" />
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rawift&show_icons=true&theme=radical)
+
   </a>
 </p>
 
