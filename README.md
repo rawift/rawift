@@ -11,8 +11,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rawift" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/rawift" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.codechef.com/users/rawift" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
   <a href="https://leetcode.com/u/rawift/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.geeksforgeeks.org/user/rawift/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
   <a href="mailto:rawatabhiips@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://platform-hazk1.centralindia.cloudapp.azure.com" target="_blank"><img src="https://img.shields.io/badge/Tracelyst-live-22c55e?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Tracelyst, live" /></a>
 </p>
@@ -86,8 +86,8 @@
 ## 🧠 DSA
 
 <p>
+  <a href="https://www.codechef.com/users/rawift"><img src="https://img.shields.io/badge/CodeChef-rawift-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
   <a href="https://leetcode.com/u/rawift/"><img src="https://img.shields.io/badge/LeetCode-rawift-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.geeksforgeeks.org/user/rawift/"><img src="https://img.shields.io/badge/GeeksforGeeks-rawift-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
   <img src="https://img.shields.io/badge/Problems%20solved-~600-2563eb?style=flat-square" alt="About 600 problems solved" />
   <img src="https://img.shields.io/badge/GFG%20University-Top%20500-2F8D46?style=flat-square" alt="Top 500 in GeeksforGeeks University Rankings" />
 </p>
